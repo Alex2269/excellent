@@ -16,6 +16,7 @@ flashrom -p serprog:dev=/dev/ttyACM0:4000000 -w test-write.bin
 flashrom -c MX25L12805D -p serprog:dev=/dev/ttyACM0:4000000 -r test-read.bin
 flashrom -c MX25L12805D -p serprog:dev=/dev/ttyACM0:4000000 -w test-write.bin
 --------------------------------------------------------------------------------
+https://github.com/RobertoBenjami
 https://github.com/anothermist/DISPLAYS
 https://github.com/anothermist/LIBRARIES
 --------------------------------------------------------------------------------
